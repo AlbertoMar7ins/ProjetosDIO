@@ -1,0 +1,1 @@
+Aqui está em anexo uma planilha que realiza uma análise de dados e transforma em informações relevantes acerca de uma amostragem de vendas da Xbox referente a seus produtos de assinatura.
